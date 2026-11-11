@@ -4,6 +4,6 @@ int produit(int a,int b){
 float moyenne(int a,int b){
      return(a+b)/2;}
 void main(){
-     printf(" Projet collaboratif5")
+     printf(" message final après resolution du conflit")
      produit(a,b);
      moyenne(a,b)}

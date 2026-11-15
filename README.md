@@ -1,6 +1,14 @@
 # TP Git et GitHub HAITAM ELGHAZI
 Étudiant: HAITAM ELGHAZI (GitHub: HtmGhz1726), 1re année cycle ingénieur (IID), ENSA Khouribga
 
+## Coordonnées de l'étudiant
+- **Nom et prénom :** HAITAM ELGHAZI
+- **Établissement :** École Nationale des Sciences Appliquées (ENSA) de Khouribga
+- **Formation :** 1re année du cycle ingénieur
+- **Module :** Introduction à l’ingénierie digitale (IID)
+- **Compte GitHub :** [HtmGhz1726](https://github.com/HtmGhz1726)
+- **Adresse e-mail :** htmmirror@gmail.com
+
 ## Dépôts réalisés
 | Exercice | Dépôt | Rôle |
 |---|---|---|
